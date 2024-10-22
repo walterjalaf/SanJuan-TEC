@@ -1,0 +1,31 @@
+Sector  ,Fase,Consumo
+Hall acceso,R,13
+Farmacia,R,14
+Consultorio N° 5,R,15
+Gases Medicinales,R,13
+Pasillo,R,15
+Sector de Espera,R,14
+Recepción,R,13
+Acceso,R,15
+Oficina,R,15
+Escalera c104,R,16
+LAvadera c115,R,12
+Sanatorio 1 - c115,R,13
+Sala de guardia,R,14
+Baño,R,15
+Oficina Radiológica,R,16
+Escalera c165,R,13
+Vestuario Enfermeria,S,12
+Ascensor Montacamilla,S,14
+Radiología,S,17
+Equipo RX,S,18
+Recepción c159,S,19
+Tanque de agua - TS10,S,52
+LAboratorio - c128,S,12
+Sanitario c148,S,4
+Sanitario c151,S,12
+Sanitario c150,S,21
+Sanitario c148,T,15
+Oficina de enfermeria,T,14
+deposito de farmacia,T,12
+baño discapacitado ,T,13
