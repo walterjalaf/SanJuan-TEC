@@ -1,0 +1,31 @@
+Sector  ,Fase
+Hall acceso,R
+Farmacia,R
+Consultorio N° 5,R
+Gases Medicinales,R
+Pasillo,R
+Sector de Espera,R
+Recepción,R
+Acceso,R
+Oficina,R
+Escalera c104,R
+LAvadera c115,R
+Sanatorio 1 - c115,R
+Sala de guardia,R
+Baño,R
+Oficina Radiológica,R
+Escalera c165,R
+Vestuario Enfermeria,S
+Ascensor Montacamilla,S
+Radiología,S
+Equipo RX,S
+Recepción c159,S
+Tanque de agua - TS10,S
+LAboratorio - c128,S
+Sanitario c148,S
+Sanitario c151,S
+Sanitario c150,S
+Sanitario c148,T
+Oficina de enfermeria,T
+deposito de farmacia,T
+baño discapacitado ,T
